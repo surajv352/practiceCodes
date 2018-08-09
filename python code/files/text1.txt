@@ -1,0 +1,13 @@
+Hii
+hello
+how are you?
+i am fine
+what about you?
+i am also fine
+do you like apple?
+no 
+then what you like?
+i like banana
+what is your name?
+my name is chatbot
+my name is suraj

@@ -1,0 +1,7 @@
+show me the list of movies.
+[ironman, batman, superman, skyfall, mission impossible]
+which is your favourite movie?
+my favourite movie is Inception.
+can you suggest me any good movie
+tell me something about ironman
+this is good movie, you should watch it!
